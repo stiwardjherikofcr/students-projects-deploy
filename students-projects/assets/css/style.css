@@ -828,7 +828,7 @@ section {
   --------------------------------*/
 #call-to-action {
     background: linear-gradient(rgba(0, 142, 99, 0.1), rgba(0, 0, 0, 0.1)),
-        url("students-projects/assets/img/home/call-to-action-bg.jpg") fixed center center;
+        url("assets/img/home/call-to-action-bg.jpg") fixed center center;
     background-size: cover;
     padding: 60px 0;
 }
@@ -898,7 +898,7 @@ section {
 /* Facts Section
   --------------------------------*/
 #facts {
-    background: url("students-projects/assets/img/home/facts-bg.jpg") center top no-repeat fixed;
+    background: url("assets/img/home/facts-bg.jpg") center top no-repeat fixed;
     background-size: cover;
     padding: 60px 0 0 0;
     position: relative;
